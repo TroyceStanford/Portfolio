@@ -589,7 +589,7 @@ body {
 }
 
 a {
-    color: #00d1b2;
+    color: #8bc5bf;
     cursor: pointer;
     text-decoration: none
 }
@@ -1731,9 +1731,9 @@ fieldset[disabled] .button.is-info.is-inverted.is-outlined {
 }
 
 .button.is-success {
-    background-color: #48c78e;
+    background-color: #121212;
     border-color: transparent;
-    color: #fff
+    color: #8bc5bf
 }
 
 .button.is-success.is-hovered,
@@ -3398,7 +3398,7 @@ div.icon-text {
 
 .tag:not(body) {
     align-items: center;
-    background-color: #000000;
+    background-color: #232323;
     border-radius: 4px;
     color: #8bc5bf;
     display: inline-flex;
@@ -5969,7 +5969,7 @@ screen and (min-width:769px) {
 }
 
 .modal-card-head {
-    border-bottom: 1px solid #dbdbdb;
+    border-bottom: 1px solid #232323;
     border-top-left-radius: 6px;
     border-top-right-radius: 6px
 }
@@ -5985,7 +5985,7 @@ screen and (min-width:769px) {
 .modal-card-foot {
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
-    border-top: 1px solid #dbdbdb
+    border-top: 1px solid #232323
 }
 
 .modal-card-foot .button:not(:last-child) {
@@ -6293,7 +6293,7 @@ screen and (min-width:769px) {
 }
 
 .navbar.is-primary {
-    background-color: #454545;
+    background-color: #232323;
     color: #fff
 }
 
@@ -9464,7 +9464,7 @@ a.has-text-black:hover {
 }
 
 .has-text-light {
-    color: #00d1b2 !important
+    color: #8bc5bf !important
 }
 
 a.has-text-light:focus,
@@ -9490,7 +9490,7 @@ a.has-text-dark:hover {
 }
 
 .has-text-primary {
-    color: #454545 !important
+    color: #434343 !important
 }
 
 a.has-text-primary:focus,
@@ -11496,11 +11496,11 @@ screen and (min-width:769px) {
 }
 
 .hero.is-primary .title {
-    color: #00d1b2
+    color: #8bc5bf
 }
 
 .hero.is-primary .subtitle {
-    color: #00d1b2
+    color: #8bc5bf
 }
 
 .hero.is-primary .subtitle a:not(.button),
