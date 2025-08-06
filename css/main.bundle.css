@@ -582,7 +582,7 @@ pre {
 }
 
 body {
-    color: #4a4a4a;
+    color: #8bc5bf;
     font-size: 1em;
     font-weight: 400;
     line-height: 1.5
@@ -3594,7 +3594,7 @@ a.tag:hover {
 }
 
 .title {
-    color: #363636;
+    color: #8bc5bf;
     font-size: 2rem;
     font-weight: 600;
     line-height: 1.125
@@ -5275,7 +5275,7 @@ screen and (min-width:769px) {
     background-color: #232323;
     border-radius: .25rem;
     box-shadow: 0 .5em 1em -.125em hsla(0, 0%, 4%, .1), 0 0 0 1px hsla(0, 0%, 4%, .02);
-    color: #4a4a4a;
+    color: #8bc5bf;
     max-width: 100%;
     position: relative
 }
