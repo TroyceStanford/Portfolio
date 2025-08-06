@@ -3398,9 +3398,9 @@ div.icon-text {
 
 .tag:not(body) {
     align-items: center;
-    background-color: #f5f5f5;
+    background-color: #000000;
     border-radius: 4px;
-    color: #4a4a4a;
+    color: #8bc5bf;
     display: inline-flex;
     font-size: .75rem;
     height: 2em;
@@ -3638,7 +3638,7 @@ a.tag:hover {
 }
 
 .subtitle {
-    color: #4a4a4a;
+    color: #8bc5bf;
     font-size: 1.25rem;
     font-weight: 400;
     line-height: 1.25
@@ -5960,7 +5960,7 @@ screen and (min-width:769px) {
 .modal-card-foot,
 .modal-card-head {
     align-items: center;
-    background-color: #f5f5f5;
+    background-color: #232323;
     display: flex;
     flex-shrink: 0;
     justify-content: flex-start;
@@ -5975,7 +5975,7 @@ screen and (min-width:769px) {
 }
 
 .modal-card-title {
-    color: #363636;
+    color: #8bc5bf;
     flex-grow: 1;
     flex-shrink: 0;
     font-size: 1.5rem;
@@ -5994,7 +5994,7 @@ screen and (min-width:769px) {
 
 .modal-card-body {
     -webkit-overflow-scrolling: touch;
-    background-color: #fff;
+    background-color: #121212;
     flex-grow: 1;
     flex-shrink: 1;
     overflow: auto;
