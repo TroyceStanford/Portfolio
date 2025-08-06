@@ -31,6 +31,11 @@ a.icon > strong {margin-left:.25rem}
 // import everything - alternatively import just what you need: https://bulma.io/documentation/overview/modular/
 @import "~bulma/bulma"; 
 
+html,
+body {
+  background-color: $primary;
+}
+
 // override specific bulma styles
 .section {padding: 2.15rem 1.5rem}
 
