@@ -9438,12 +9438,12 @@ screen and (min-width:769px) {
 }
 
 .has-text-white {
-    color: #121212 !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-white:focus,
 a.has-text-white:hover {
-    color: #e6e6e6 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-white {
@@ -9451,12 +9451,12 @@ a.has-text-white:hover {
 }
 
 .has-text-black {
-    color: #0a0a0a !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-black:focus,
 a.has-text-black:hover {
-    color: #000 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-black {
@@ -9464,12 +9464,12 @@ a.has-text-black:hover {
 }
 
 .has-text-light {
-    color: #232323 !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-light:focus,
 a.has-text-light:hover {
-    color: #dbdbdb !important
+    color: #b9b9b9 !important
 }
 
 .has-background-light {
@@ -9477,12 +9477,12 @@ a.has-text-light:hover {
 }
 
 .has-text-dark {
-    color: #363636 !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-dark:focus,
 a.has-text-dark:hover {
-    color: #1c1c1c !important
+    color: #b9b9b9 !important
 }
 
 .has-background-dark {
@@ -9490,12 +9490,12 @@ a.has-text-dark:hover {
 }
 
 .has-text-primary {
-    color: #121212 !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-primary:focus,
 a.has-text-primary:hover {
-    color: #2c2c2c !important
+    color: #b9b9b9 !important
 }
 
 .has-background-primary {
@@ -9503,12 +9503,12 @@ a.has-text-primary:hover {
 }
 
 .has-text-primary-light {
-    color: #232323 !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-primary-light:focus,
 a.has-text-primary-light:hover {
-    color: #dbdbdb !important
+    color: #b9b9b9 !important
 }
 
 .has-background-primary-light {
@@ -9516,12 +9516,12 @@ a.has-text-primary-light:hover {
 }
 
 .has-text-primary-dark {
-    color: #858585 !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-primary-dark:focus,
 a.has-text-primary-dark:hover {
-    color: #9e9e9e !important
+    color: #b9b9b9 !important
 }
 
 .has-background-primary-dark {
@@ -9529,12 +9529,12 @@ a.has-text-primary-dark:hover {
 }
 
 .has-text-link {
-    color: #00d1b2 !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-link:focus,
 a.has-text-link:hover {
-    color: #009e86 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-link {
@@ -9542,12 +9542,12 @@ a.has-text-link:hover {
 }
 
 .has-text-link-light {
-    color: #ebfffc !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-link-light:focus,
 a.has-text-link-light:hover {
-    color: #b8fff4 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-link-light {
@@ -9555,12 +9555,12 @@ a.has-text-link-light:hover {
 }
 
 .has-text-link-dark {
-    color: #00947e !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-link-dark:focus,
 a.has-text-link-dark:hover {
-    color: #00c7a9 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-link-dark {
@@ -9568,12 +9568,12 @@ a.has-text-link-dark:hover {
 }
 
 .has-text-info {
-    color: #3e8ed0 !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-info:focus,
 a.has-text-info:hover {
-    color: #2b74b1 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-info {
@@ -9581,12 +9581,12 @@ a.has-text-info:hover {
 }
 
 .has-text-info-light {
-    color: #eff5fb !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-info-light:focus,
 a.has-text-info-light:hover {
-    color: #c6ddf1 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-info-light {
@@ -9594,12 +9594,12 @@ a.has-text-info-light:hover {
 }
 
 .has-text-info-dark {
-    color: #296fa8 !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-info-dark:focus,
 a.has-text-info-dark:hover {
-    color: #368ace !important
+    color: #b9b9b9 !important
 }
 
 .has-background-info-dark {
@@ -9607,12 +9607,12 @@ a.has-text-info-dark:hover {
 }
 
 .has-text-success {
-    color: #48c78e !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-success:focus,
 a.has-text-success:hover {
-    color: #34a873 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-success {
@@ -9620,12 +9620,12 @@ a.has-text-success:hover {
 }
 
 .has-text-success-light {
-    color: #effaf5 !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-success-light:focus,
 a.has-text-success-light:hover {
-    color: #c8eedd !important
+    color: #b9b9b9 !important
 }
 
 .has-background-success-light {
@@ -9633,12 +9633,12 @@ a.has-text-success-light:hover {
 }
 
 .has-text-success-dark {
-    color: #257953 !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-success-dark:focus,
 a.has-text-success-dark:hover {
-    color: #31a06e !important
+    color: #b9b9b9 !important
 }
 
 .has-background-success-dark {
@@ -9646,12 +9646,12 @@ a.has-text-success-dark:hover {
 }
 
 .has-text-warning {
-    color: #ffe08a !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-warning:focus,
 a.has-text-warning:hover {
-    color: #ffd257 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-warning {
@@ -9659,12 +9659,12 @@ a.has-text-warning:hover {
 }
 
 .has-text-warning-light {
-    color: #121212aeb !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-warning-light:focus,
 a.has-text-warning-light:hover {
-    color: #ffecb8 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-warning-light {
@@ -9672,12 +9672,12 @@ a.has-text-warning-light:hover {
 }
 
 .has-text-warning-dark {
-    color: #946c00 !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-warning-dark:focus,
 a.has-text-warning-dark:hover {
-    color: #c79200 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-warning-dark {
@@ -9685,12 +9685,12 @@ a.has-text-warning-dark:hover {
 }
 
 .has-text-danger {
-    color: #f14668 !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-danger:focus,
 a.has-text-danger:hover {
-    color: #ee1742 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-danger {
@@ -9698,12 +9698,12 @@ a.has-text-danger:hover {
 }
 
 .has-text-danger-light {
-    color: #feecf0 !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-danger-light:focus,
 a.has-text-danger-light:hover {
-    color: #fabdc9 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-danger-light {
@@ -9711,12 +9711,12 @@ a.has-text-danger-light:hover {
 }
 
 .has-text-danger-dark {
-    color: #cc0f35 !important
+    color: #b9b9b9 !important
 }
 
 a.has-text-danger-dark:focus,
 a.has-text-danger-dark:hover {
-    color: #ee2049 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-danger-dark {
@@ -9724,7 +9724,7 @@ a.has-text-danger-dark:hover {
 }
 
 .has-text-black-bis {
-    color: 121212 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-black-bis {
@@ -9732,7 +9732,7 @@ a.has-text-danger-dark:hover {
 }
 
 .has-text-black-ter {
-    color: #242424 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-black-ter {
@@ -9740,7 +9740,7 @@ a.has-text-danger-dark:hover {
 }
 
 .has-text-grey-darker {
-    color: #363636 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-grey-darker {
@@ -9748,7 +9748,7 @@ a.has-text-danger-dark:hover {
 }
 
 .has-text-grey-dark {
-    color: #4a4a4a !important
+    color: #b9b9b9 !important
 }
 
 .has-background-grey-dark {
@@ -9756,7 +9756,7 @@ a.has-text-danger-dark:hover {
 }
 
 .has-text-grey {
-    color: #7a7a7a !important
+    color: #b9b9b9 !important
 }
 
 .has-background-grey {
@@ -9764,7 +9764,7 @@ a.has-text-danger-dark:hover {
 }
 
 .has-text-grey-light {
-    color: #b5b5b5 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-grey-light {
@@ -9772,7 +9772,7 @@ a.has-text-danger-dark:hover {
 }
 
 .has-text-grey-lighter {
-    color: #dbdbdb !important
+    color: #b9b9b9 !important
 }
 
 .has-background-grey-lighter {
@@ -9780,7 +9780,7 @@ a.has-text-danger-dark:hover {
 }
 
 .has-text-white-ter {
-    color: #232323 !important
+    color: #b9b9b9 !important
 }
 
 .has-background-white-ter {
@@ -9788,7 +9788,7 @@ a.has-text-danger-dark:hover {
 }
 
 .has-text-white-bis {
-    color: #fafafa !important
+    color: #b9b9b9 !important
 }
 
 .has-background-white-bis {
